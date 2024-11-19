@@ -1,0 +1,6 @@
+# Local configuration
+local.settings.py
+*.env
+.env.*
+
+/venv
